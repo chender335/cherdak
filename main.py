@@ -6,7 +6,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import asyncio
 
 # --- НАСТРОЙКИ ---
-API_TOKEN = 'ВАШ_ТОКЕН_ЗДЕСЬ'
+API_TOKEN = '8337805364:AAEUCjuiZm3K6281spY9z8awcbyFwlZkwtM'
 DEPOSIT_BIG = 5000  # Цена для стола на 4-х
 DEPOSIT_SMALL = 2000  # Цена для стола на 2-х
 PAYMENT_URL = "https://your-payment-link.com" # Ссылка на оплату
