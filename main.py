@@ -5,6 +5,8 @@ from aiogram.filters import Command
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 import asyncio
 
+print("start")
+
 # --- НАСТРОЙКИ ---
 API_TOKEN = '8337805364:AAEUCjuiZm3K6281spY9z8awcbyFwlZkwtM'
 DEPOSIT_BIG = 5000  # Цена для стола на 4-х
